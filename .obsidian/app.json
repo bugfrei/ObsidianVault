@@ -1,1 +1,10 @@
-{}
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-Inbox",
+  "attachmentFolderPath": "Files"
+}
