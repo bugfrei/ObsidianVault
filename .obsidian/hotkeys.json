@@ -1,4 +1,14 @@
 {
+  "obsidian-advanced-new-file:advanced-new-file-new-pane": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
   "obsidian-advanced-new-file:advanced-new-file": [
     {
       "modifiers": [
@@ -8,27 +18,10 @@
       "key": "N"
     }
   ],
-  "markdown:add-metadata-property": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "-"
-    }
-  ],
-  "obsidian-advanced-new-file:advanced-new-file-new-pane": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "table-editor-obsidian:insert-column": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -38,7 +31,7 @@
   "table-editor-obsidian:insert-row": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -48,7 +41,7 @@
   "table-editor-obsidian:move-column-left": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -58,7 +51,7 @@
   "table-editor-obsidian:move-column-right": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -68,7 +61,7 @@
   "table-editor-obsidian:move-row-down": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -78,7 +71,7 @@
   "table-editor-obsidian:move-row-up": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -88,7 +81,7 @@
   "workspace:move-to-new-window": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod",
         "Shift"
       ],
@@ -104,22 +97,11 @@
       "key": "Backspace"
     }
   ],
-  "editor:attach-file": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
-    }
-  ],
   "editor:toggle-bullet-list": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "L"
     }
@@ -127,11 +109,19 @@
   "editor:toggle-numbered-list": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:attach-file": [
+    {
+      "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "N"
+      "key": "A"
     }
   ],
   "command-palette:open": [
@@ -149,8 +139,8 @@
   "file-explorer:move-file": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "V"
     }
@@ -158,7 +148,6 @@
   "file-recovery:open": [
     {
       "modifiers": [
-        "Ctrl",
         "Mod",
         "Shift"
       ],
@@ -168,7 +157,7 @@
   "editor:toggle-strikethrough": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
       "key": "-"
     }
@@ -176,7 +165,6 @@
   "markdown:edit-metadata-property": [
     {
       "modifiers": [
-        "Ctrl",
         "Mod",
         "Shift"
       ],
@@ -186,8 +174,7 @@
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
+        "Alt",
         "Shift"
       ],
       "key": "E"
@@ -196,8 +183,7 @@
   "window:toggle-always-on-top": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
+        "Alt",
         "Shift"
       ],
       "key": "V"
@@ -206,8 +192,8 @@
   "highlightr-plugin:Blue": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "B"
     }
@@ -215,8 +201,8 @@
   "highlightr-plugin:Cyan": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "C"
     }
@@ -224,8 +210,8 @@
   "highlightr-plugin:Green": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "G"
     }
@@ -233,8 +219,8 @@
   "highlightr-plugin:Grey": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "X"
     }
@@ -242,8 +228,8 @@
   "highlightr-plugin:Orange": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "O"
     }
@@ -251,8 +237,8 @@
   "highlightr-plugin:Pink": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "P"
     }
@@ -260,8 +246,8 @@
   "highlightr-plugin:Purple": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "U"
     }
@@ -269,8 +255,8 @@
   "highlightr-plugin:Red": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "R"
     }
@@ -278,8 +264,8 @@
   "highlightr-plugin:unhighlight": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "Backspace"
     }
@@ -287,8 +273,8 @@
   "highlightr-plugin:Yellow": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "Y"
     }
@@ -297,16 +283,15 @@
   "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "\\"
+      "key": "/"
     }
   ],
   "para-shortcuts:create-new-entry": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "P"
     }
@@ -314,8 +299,7 @@
   "para-shortcuts:move-to-archive": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "A"
     }
@@ -323,8 +307,7 @@
   "para-shortcuts:postpone-entry": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "S"
     }
@@ -341,9 +324,7 @@
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "T"
     }
@@ -351,9 +332,7 @@
   "periodic-notes:next-daily-note": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "U"
     }
@@ -361,9 +340,7 @@
   "periodic-notes:prev-daily-note": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "Z"
     }
@@ -371,9 +348,7 @@
   "periodic-notes:open-weekly-note": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "Q"
     }
@@ -404,45 +379,13 @@
       "key": "O"
     }
   ],
-  "templater-obsidian:create-new-note-from-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "`"
-    }
-  ],
-  "templater-obsidian:insert-templater": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "templater-obsidian:replace-in-file-templater": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
-        "Ctrl",
         "Mod",
         "Shift"
       ],
       "key": "I"
     }
-  ],
-  "switcher:open": [],
-  "file-explorer:new-file-in-new-pane": [],
-  "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "make-md:mk-blink": []
+  ]
 }
