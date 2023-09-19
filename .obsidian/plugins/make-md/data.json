@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Präsi": [
-      "Excalidraw/Scripts"
+      "Excalidraw/Scripts",
+      "0-Inbox"
     ]
   },
   "expandedSpaces": [
@@ -75,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695153900628,
+  "spacesAutoBackupLast": 1695155941129,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
