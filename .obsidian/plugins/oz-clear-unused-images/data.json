@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "Excalidraw",
+  "ribbonIcon": false,
+  "excludeSubfolders": true
+}
