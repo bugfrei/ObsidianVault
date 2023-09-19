@@ -5,7 +5,6 @@
   "dataview",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-image-toolkit",
   "obsidian-kanban",
   "make-md",
@@ -19,5 +18,7 @@
   "templater-obsidian",
   "obisidian-note-linker",
   "oz-clear-unused-images",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "highlightr-plugin",
+  "para-shortcuts"
 ]
