@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "cb80cfeaccb4cfb4",
+        "id": "99c05512aad4c05c",
         "type": "tabs",
         "children": [
           {
-            "id": "cca1b5d1fa71b475",
+            "id": "7890d7763c981d73",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2ecbbc3c8fd3473c",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "0-Inbox"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,22 +238,32 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
       "obisidian-note-linker:Note Linker": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d79bb698912991c0",
+  "active": "2ecbbc3c8fd3473c",
   "lastOpenFiles": [
-    "0-Inbox/Unbenannt.md",
-    "Excalidraw/Drawing 2023-09-19 21.59.27.excalidraw.md",
+    "0-Inbox/0-Inbox.md",
+    "2-Area/2-Area.md",
+    "1-Project/1-Project.md",
+    "3-Ressources/3-Ressources.md",
+    "1-Project/Neu.md",
+    "4-Archive/1-Project",
+    "Weekly/Weekly.md",
+    "Weekly/2023-W38.md",
+    "Daily/19.09.2023.md",
+    "Weekly",
+    "Vorlagen",
+    "Files",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Text Arch.svg",
@@ -253,31 +274,21 @@
     "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
     "Excalidraw/Scripts/Downloaded/Select Similar Elements.md",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "Excalidraw/Scripts/Downloaded/Rename Image.md",
-    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
+    "Daily",
     "Context/spacesLastSync.log",
-    "Context",
-    "5-Kanban",
-    "4-Archive",
-    "3-Ressources",
-    "2-Area",
-    "1-Project"
+    "Context"
   ]
 }

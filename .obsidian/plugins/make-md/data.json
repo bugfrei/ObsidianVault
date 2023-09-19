@@ -37,13 +37,29 @@
   "expandedFolders": {
     "Präsi": [
       "Excalidraw/Scripts",
+      "0-Inbox",
+      "Daily",
+      "Weekly",
+      "1-Project",
+      "4-Archive/1-Project",
+      "1-Project",
+      "0-Inbox",
+      "2-Area",
+      "2-Area",
+      "3-Ressources",
+      "2-Area",
+      "1-Project",
+      "0-Inbox",
+      "1-Project",
+      "2-Area",
       "0-Inbox"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Präsi"
+    "Präsi",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -76,7 +92,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695155941129,
+  "spacesAutoBackupLast": 1695156338692,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
