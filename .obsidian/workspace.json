@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b9b7eb71e61f2f68",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
+                "file": "1-Project/Obsidian Video/Fertig.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,6 +241,7 @@
   },
   "active": "d434a90e7d436a61",
   "lastOpenFiles": [
+    "1-Project/Obsidian Video/Was ist Obsidian.md",
     "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
     "1-Project/Obsidian Video/Diagramme.md",
     "1-Project/Obsidian Video/Canvas.canvas",
@@ -251,7 +251,6 @@
     "0-Inbox/Mermaid Diagramme.md",
     "0-Inbox/Dritte Notiz.md",
     "1-Project/Obsidian Video/Links, Graph und mehr.md",
-    "1-Project/Obsidian Video/Was ist Obsidian.md",
     "1-Project/Beispiel Projekt/Bechreibung.md",
     "1-Project/1-Project.md",
     "1-Project/Beispiel Projekt",

@@ -7,6 +7,7 @@
 - Wird für alle Betriebsysteme und Geräte unterstützt (Windows, Mac, Linux, Android, iOS)
 - Wächst mit der Benutzung. Vom leeren Vault zu sinnvollen Tags, Properties, Dataviews, Erweiterungen, Vorlagen und mehr.
 - Sehr guter PDF Export (mit ausblendbaren Inhalten/Kommentare)
+- Es speichert selbstständig
 - Es unterstützt sogar Confluence um Notizen von Obsidian direkt in Confluence zu veröffentlichen / aktualisieren.
 
 # Vorstellung von Obsidian
@@ -21,3 +22,8 @@ In diesem Video habe ich die Möglichkeiten nur mal kurz vorgestellt. Im Live-Me
 - Confluence Einbindung
 - und viele Dataview Beispielen
 
+# Dieser Vault zum Download
+
+Auf Github : https://github.com/bugfrei/ObsidianVault.git
+
+Verschiedene Commits für ein blankes Vault, konfiguriert für Windows und Mac und diesen Beispiel Notizen (ohne Dataview's, Kanban-Karten ...)
