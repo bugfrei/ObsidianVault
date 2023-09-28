@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "99c05512aad4c05c",
+        "id": "f3f89d70172fa996",
         "type": "tabs",
         "children": [
           {
-            "id": "7890d7763c981d73",
+            "id": "d434a90e7d436a61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ecbbc3c8fd3473c",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "0-Inbox"
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DELETE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "b9b7eb71e61f2f68",
@@ -120,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
+              }
             }
           },
           {
@@ -155,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,20 +240,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2ecbbc3c8fd3473c",
+  "active": "d434a90e7d436a61",
   "lastOpenFiles": [
-    "0-Inbox/0-Inbox.md",
-    "2-Area/2-Area.md",
+    "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
+    "1-Project/Obsidian Video/Diagramme.md",
+    "1-Project/Obsidian Video/Canvas.canvas",
+    "1-Project/Obsidian Video/Fertig.md",
+    "1-Project/Obsidian Video/Kanban.md",
+    "1-Project/Obsidian Video/Tags und Properties.md",
+    "0-Inbox/Mermaid Diagramme.md",
+    "0-Inbox/Dritte Notiz.md",
+    "1-Project/Obsidian Video/Links, Graph und mehr.md",
+    "1-Project/Obsidian Video/Was ist Obsidian.md",
+    "1-Project/Beispiel Projekt/Bechreibung.md",
     "1-Project/1-Project.md",
-    "3-Ressources/3-Ressources.md",
-    "1-Project/Neu.md",
-    "4-Archive/1-Project",
+    "1-Project/Beispiel Projekt",
+    "0-Inbox/Unbenannt.md",
+    "Files/Was ist Obsidian.pdf",
+    "1-Project/Obsidian Video",
+    "0-Inbox/Liste.md",
+    "0-Inbox/Erste Notiz.md",
+    "0-Inbox/0-Inbox.md",
+    "0-Inbox/TC - xyz.md",
+    "0-Inbox/TC - abc.md",
+    "0-Inbox/Zweite Notiz.md",
+    "0-Inbox/TC  - qqq.md",
+    "a",
     "Weekly/Weekly.md",
-    "Weekly/2023-W38.md",
-    "Daily/19.09.2023.md",
-    "Weekly",
-    "Vorlagen",
-    "Files",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
@@ -267,28 +278,15 @@
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Text Arch.svg",
-    "Excalidraw/Scripts/Downloaded/Text Arch.md",
     "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
-    "Excalidraw/Scripts/Downloaded/Split text by lines.md",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
-    "Excalidraw/Scripts/Downloaded/Select Similar Elements.md",
-    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Daily",
     "Context/spacesLastSync.log",
-    "Context"
+    "Context",
+    "4-Archive/1-Project"
   ]
 }

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"273e11db5e118db6","type":"group","x":-480,"y":240,"width":460,"height":560,"color":"3","label":"Gruppen"},
+		{"id":"faedaa3136b43298","type":"text","text":"# **Canvas**","x":-60,"y":-420,"width":250,"height":69},
+		{"id":"584e363219d21bfe","type":"text","text":"[[Diagramme]]","x":286,"y":549,"width":250,"height":60},
+		{"id":"d8eb66ee36bf951b","type":"file","file":"1-Project/Obsidian Video/Was ist Obsidian.md","x":-440,"y":-260,"width":400,"height":396},
+		{"id":"453798b2c7787f56","type":"text","text":"Verschiedenen Content:","x":100,"y":-260,"width":250,"height":60},
+		{"id":"0a0bf00c48e11eef","type":"link","url":"https://www.google.de","x":100,"y":-140,"width":400,"height":400},
+		{"id":"99e2254f3da72d5b","type":"text","text":"Mit Elementen","x":-460,"y":260,"width":250,"height":60},
+		{"id":"6c9e1e0720e10511","type":"file","file":"1-Project/Beispiel Projekt/Bechreibung.md","x":-460,"y":360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"9871ab8b740723c0","fromNode":"faedaa3136b43298","fromSide":"bottom","toNode":"d8eb66ee36bf951b","toSide":"top"},
+		{"id":"8538feea6f6e1da0","fromNode":"d8eb66ee36bf951b","fromSide":"right","toNode":"453798b2c7787f56","toSide":"left"},
+		{"id":"7970b6dad4e3078a","fromNode":"453798b2c7787f56","fromSide":"bottom","toNode":"0a0bf00c48e11eef","toSide":"top"},
+		{"id":"2209689c82c9e46e","fromNode":"0a0bf00c48e11eef","fromSide":"bottom","toNode":"273e11db5e118db6","toSide":"right"},
+		{"id":"f582dbf2ba7e159d","fromNode":"273e11db5e118db6","fromSide":"right","toNode":"584e363219d21bfe","toSide":"left"}
+	]
+}
