@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Diagramme.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
+                "file": "1-Project/Obsidian Video/Diagramme.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Diagramme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Diagramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Diagramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -246,13 +246,14 @@
     "1-Project/Obsidian Video/Diagramme.md",
     "1-Project/Obsidian Video/Canvas.canvas",
     "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
+    "Daily/27.09.2023.md",
     "1-Project/Obsidian Video/Tags und Properties.md",
+    "0-Inbox/Dritte Notiz.md",
     "1-Project/Obsidian Video/Links, Graph und mehr.md",
     "1-Project/Obsidian Video/Was ist Obsidian.md",
-    "Files/Pasted image 20230929020215.png",
+    "Files/Pasted image 20230929033837.png",
     "1-Project/Beispiel Projekt/Bechreibung.md",
-    "Daily/27.09.2023.md",
-    "0-Inbox/Dritte Notiz.md",
+    "Files/Pasted image 20230929020215.png",
     "Files/Pasted image 20230928204432.png",
     "Files/Pasted image 20230928203428.png",
     "0-Inbox/Mermaid Diagramme.md",
@@ -280,7 +281,6 @@
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Arch.svg",
-    "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",

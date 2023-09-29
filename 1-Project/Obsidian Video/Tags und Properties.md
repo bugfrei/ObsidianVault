@@ -1,3 +1,15 @@
+---
+tags:
+  - Wichtig
+  - Beispiel
+Gelesen: true
+Stand: 2023-09-11
+Personen:
+  - Alex
+  - Ben
+  - Chris
+---
+
 Mit Tags und Properties kann man seine Notizen Strukturieren. Diese Techniken sind vielfältiger als eine noch so gute Ordnerstruktur.
 
 Für Tags und Properties gibt es 2 Möglichkeiten sie zu erstellen:
@@ -19,12 +31,23 @@ Für Tags und Properties gibt es 2 Möglichkeiten sie zu erstellen:
 Aber durch Erweiterungen von Obsidian noch **viiiieeel** mehr. z.B. ==Dataview==
 
 🔴 Eine Tabelle von wichtigen (\#Wichtig) Seiten
+```dataview
+TABLE
+Personen
+FROM #Wichtig
+```
 
 ==Dataview== kann jedoch noch viel mehr. Es können SQL ähnliche Queries erstellt werden um Tabellen zu filtern, sortieren oder Spalten zu definieren. z.B.
 
 🔴 Tabelle von \#Wichtig mit Personenliste (Property `Personen`)
 
 🔴 Kalender mit dem Stand (Stand, FROM \#Wichtig, WHERE Stand) -> dann Datum ändern
+
+```dataview
+CALENDAR Stand
+FROM #Wichtig 
+WHERE Stand
+```
 
 Erstellt man mit Markdown TODO-Listen z.B.
 
@@ -34,6 +57,13 @@ Erstellt man mit Markdown TODO-Listen z.B.
 
 dann kann man diese ebenfalls mit Markdown aus allen Dateien zusammenfassen.
 🔴 TASK von \#Wichtig
+
+```dataview
+TASK
+FROM #Wichtig 
+WHERE !completed
+GROUP BY file.name
+```
 
 🔴 Nur unerledigte anzeigen (WHERE !completed)
 

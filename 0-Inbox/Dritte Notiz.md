@@ -7,7 +7,7 @@ geschlossen
 
 # Zu erledigen
 - [x] Planen
-- [ ] Dokumentieren
+- [x] Dokumentieren
 - [ ] Testen
 - [ ] Veröffentlichen
 

@@ -1,4 +1,4 @@
-# Benötigt ==Obsidian Charts== Erweiterung
+-> # Benötigt ==Obsidian Charts== Erweiterung
 ## Bar
 ```chart
 type: bar
@@ -38,7 +38,7 @@ Und: Pie/Donut, Polar
 ## Aus Tabellen
 |       | Test1 | Test2 | Test3 |
 | ----- | ----- | ----- | ----- |
-| Data1 | 12     | 2     | 3.33  |
+| Data1 | 20     | 2     | 3.33  |
 | Data2 | 6     | 2     | 1     |
 | Data3 | 6.7   | 4     | 2      |
 ^table1
@@ -52,7 +52,7 @@ Und: Pie/Donut, Polar
 
 ```chart
 type: bar
-id: table2
+id: table1
 layout: columns
 width: 80%
 beginAtZero: true
