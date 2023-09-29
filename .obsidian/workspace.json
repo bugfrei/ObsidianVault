@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DELETE",
+                "query": "tag:#Wichtig  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md"
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,17 +241,21 @@
   },
   "active": "d434a90e7d436a61",
   "lastOpenFiles": [
-    "1-Project/Obsidian Video/Was ist Obsidian.md",
-    "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
-    "1-Project/Obsidian Video/Diagramme.md",
-    "1-Project/Obsidian Video/Canvas.canvas",
     "1-Project/Obsidian Video/Fertig.md",
     "1-Project/Obsidian Video/Kanban.md",
+    "1-Project/Obsidian Video/Diagramme.md",
+    "1-Project/Obsidian Video/Canvas.canvas",
+    "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
     "1-Project/Obsidian Video/Tags und Properties.md",
-    "0-Inbox/Mermaid Diagramme.md",
-    "0-Inbox/Dritte Notiz.md",
     "1-Project/Obsidian Video/Links, Graph und mehr.md",
+    "1-Project/Obsidian Video/Was ist Obsidian.md",
+    "Files/Pasted image 20230929020215.png",
     "1-Project/Beispiel Projekt/Bechreibung.md",
+    "Daily/27.09.2023.md",
+    "0-Inbox/Dritte Notiz.md",
+    "Files/Pasted image 20230928204432.png",
+    "Files/Pasted image 20230928203428.png",
+    "0-Inbox/Mermaid Diagramme.md",
     "1-Project/1-Project.md",
     "1-Project/Beispiel Projekt",
     "0-Inbox/Unbenannt.md",
@@ -275,12 +279,8 @@
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
-    "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Text Arch.svg",
     "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
