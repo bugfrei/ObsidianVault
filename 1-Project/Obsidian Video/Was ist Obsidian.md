@@ -7,6 +7,15 @@ Es ist ein (kostenloser) und sehr mächtiger Markdown Editor für Notizen.
 Es hat eine sehr gute PDF Export Funktion.
 
 ---
+# Stärken von Obsidian
+- Markdown
+- Wiki-Links
+- Backlinks, Graph
+- Tags & Properties (Metadaten)
+- Flexibilität
+- Erweiterungen
+
+---
 # Wo speichert Obsidian die Notizen
 
 Im lokalen Dateisystem (oder Cloud-Laufwerk).
@@ -50,5 +59,5 @@ for (var i = 0; i < 10; i++) {
 
 Einfach mit \[\[Notizdateiname\]\]
 
-🔴 z.B. einen neuen Link zu ==Beispiel Projekt / Beschreibung== (1bb):
+🔴 z.B. einen neuen Link zu ==Beispiel Projekt / Beschreibung== (1bb): 
 

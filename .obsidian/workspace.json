@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0d7cc99e00bf82",
+        "id": "308da4527c0ca6be",
         "type": "tabs",
         "children": [
           {
-            "id": "c76d78218c7e86fb",
+            "id": "3e86783c0d273966",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md"
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Obsidian Video/Fertig.md",
+                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,12 +229,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,29 +244,31 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "zk-prefixer:Neue eindeutige Notiz erstellen": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obisidian-note-linker:Note Linker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obisidian-note-linker:Note Linker": false,
+      "periodic-notes:Open today": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "periodic-notes:Open today": false,
-      "confluence-integration:Publish to Confluence": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "14cbdf45a15c278d",
   "lastOpenFiles": [
+    "1-Project/Obsidian Video/Was ist Obsidian.md",
+    "1-Project/Obsidian Video/Fertig.md",
     "1-Project/Obsidian Video/Kanban.md",
     "1-Project/Obsidian Video/Diagramme.md",
     "1-Project/Obsidian Video/Canvas.canvas",
     "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
+    "Daily/27.09.2023.md",
     "1-Project/Obsidian Video/Tags und Properties.md",
+    "0-Inbox/Dritte Notiz.md",
     "1-Project/Obsidian Video/Links, Graph und mehr.md",
-    "1-Project/Obsidian Video/Was ist Obsidian.md",
+    "Pasted image 20230930193353.png",
     "1-Project/Beispiel Projekt/Bechreibung.md",
+    "Pasted image 20230930183847.png",
+    "Pasted image 20230930181904.png",
     "1-Project/Schulung Obsidian/Installation von Obsidian.md",
     "1-Project/Schulung Obsidian/Unterschiede Obsidian - Confluence.md",
     "1-Project/Schulung Obsidian/Video.md",
@@ -284,15 +286,11 @@
     "6-Confluence/Projekt 1/Weitere Daten.md",
     "6-Confluence/Projekt 1/Blabla.md",
     "6-Confluence/Projekt 1",
-    "6-Confluence/Projekt 3.md",
-    "6-Confluence/Projekt 2/Neues Projekt 2.md",
-    "6-Confluence/Projekt 1/Einführung in Projekt 1.md",
     "Files/Pasted image 20230927210936.png",
     "Files/Pasted image 20230927210919.png",
     "6-Confluence/Projekt 2",
     "6-Confluence/Projekt 1",
     "6-Confluence",
-    "1-Project/RAP/Nützliche Links rund um ABAP, RAP, CDS.md",
     "Files/Pasted image 20230927205029.png",
     "10 Lernen",
     "00 Inbox",
@@ -302,9 +300,6 @@
     "Files/Pasted image 20230925030412.png",
     "Files/Pasted image 20230925030145.png",
     "Files/Pasted image 20230904100113.png",
-    "Files/Pasted image 20230919211619.png",
-    "Files/Pasted image 20230919211618.png",
-    "Files/Pasted image 20230919211617.png",
     "3-Ressources/E-Mail Vorlagen",
     "Unbenannt.canvas"
   ]

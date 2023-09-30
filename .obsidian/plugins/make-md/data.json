@@ -94,8 +94,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "folder",
-  "newFileFolderPath": "0-Inbox",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -107,7 +105,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696089908926,
+  "spacesAutoBackupLast": 1696101312873,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
