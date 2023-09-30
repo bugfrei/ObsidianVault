@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
       {
         "id": "44601839e89146c3",
         "type": "tabs",
-        "dimension": 63.409770687936195,
+        "dimension": 57.926221335992025,
         "children": [
           {
             "id": "1a1601c94cd70c0e",
@@ -96,7 +96,7 @@
       {
         "id": "3ea946f124031987",
         "type": "tabs",
-        "dimension": 36.59022931206381,
+        "dimension": 42.073778664007975,
         "children": [
           {
             "id": "5e370433489ef7e2",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md"
+                "file": "1-Project/Obsidian Video/Fertig.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Obsidian Video/Was ist Obsidian.md",
+                "file": "1-Project/Obsidian Video/Fertig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -247,26 +247,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obisidian-note-linker:Note Linker": false,
-      "periodic-notes:Open today": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "14cbdf45a15c278d",
   "lastOpenFiles": [
-    "1-Project/Obsidian Video/Was ist Obsidian.md",
-    "1-Project/Obsidian Video/Fertig.md",
     "1-Project/Obsidian Video/Kanban.md",
     "1-Project/Obsidian Video/Diagramme.md",
     "1-Project/Obsidian Video/Canvas.canvas",
     "1-Project/Obsidian Video/Mehr Möglichkeiten.md",
-    "Daily/27.09.2023.md",
+    "Daily/28.09.2023.md",
     "1-Project/Obsidian Video/Tags und Properties.md",
     "0-Inbox/Dritte Notiz.md",
     "1-Project/Obsidian Video/Links, Graph und mehr.md",
-    "Pasted image 20230930193353.png",
+    "Pasted image 20230930214816.png",
+    "1-Project/Obsidian Video/Was ist Obsidian.md",
     "1-Project/Beispiel Projekt/Bechreibung.md",
+    "Pasted image 20230930213611.png",
+    "Pasted image 20230930212509.png",
+    "1-Project/Obsidian Video/Fertig.md",
+    "Daily/27.09.2023.md",
+    "Pasted image 20230930193353.png",
     "Pasted image 20230930183847.png",
     "Pasted image 20230930181904.png",
     "1-Project/Schulung Obsidian/Installation von Obsidian.md",
@@ -284,7 +288,6 @@
     "1-Project/RAP/Installation und einrichten von Eclipse.md",
     "5-Kanban/Öffnen Neue Notizen mit Kurzschreibweise.md",
     "6-Confluence/Projekt 1/Weitere Daten.md",
-    "6-Confluence/Projekt 1/Blabla.md",
     "6-Confluence/Projekt 1",
     "Files/Pasted image 20230927210936.png",
     "Files/Pasted image 20230927210919.png",
@@ -297,9 +300,6 @@
     "0 - Inbox",
     "3-Ressources/Sonstiges",
     "Files/Pasted image 20230925030645.png",
-    "Files/Pasted image 20230925030412.png",
-    "Files/Pasted image 20230925030145.png",
-    "Files/Pasted image 20230904100113.png",
     "3-Ressources/E-Mail Vorlagen",
     "Unbenannt.canvas"
   ]

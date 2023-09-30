@@ -6,16 +6,19 @@ kanban-plugin: basic
 
 ## Aufgaben
 
-- [ ] 🔴 Karte hinzufügen<br>🔴 Datei per D&D<br>🔴 Karte mit Markdown (Embedded Links, ...)<br>🔴 Karte verschieben
 - [ ] Weiter [[Fertig]]
+- [ ] Text
+- [ ] [[Fertig]]
 
 
 ## Alex
 
+- [ ] 🔴 Karte hinzufügen<br>🔴 Datei per D&D<br>🔴 Karte mit Markdown (Embedded Links, ...)<br>🔴 Karte verschieben
 
 
 ## Ben
 
+- [ ] ![[Bechreibung]]
 
 
 ## Chris

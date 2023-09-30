@@ -6,8 +6,8 @@ Status: true
 geschlossen
 
 # Zu erledigen
-- [x] Planen
-- [x] Dokumentieren
+- [ ] Planen
+- [ ] Dokumentieren
 - [ ] Testen
 - [ ] Veröffentlichen
 
