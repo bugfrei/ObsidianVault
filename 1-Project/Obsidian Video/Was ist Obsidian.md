@@ -48,7 +48,7 @@ for (var i = 0; i < 10; i++) {
 **WIKI LINKS**
 [[Links, Graph und mehr]] zu existierenden Dateien
 
-Einfach mit \[\[Notizdateiname\]\] XXX
+Einfach mit \[\[Notizdateiname\]\]
 
-🔴 z.B. einen neuen Link zu ==Beispiel Projekt / Beschreibung== (1bb): [[Bechreibung]]
+🔴 z.B. einen neuen Link zu ==Beispiel Projekt / Beschreibung== (1bb):
 

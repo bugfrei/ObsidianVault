@@ -1,0 +1,29 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "useTab": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Files",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "Files/",
+    "Files/*.*",
+    "Templates/"
+  ],
+  "promptDelete": false,
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "showIndentGuide": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-Inbox",
+  "showInlineTitle": true
+}

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "3634926c3d00d555",
+    "type": "split",
+    "children": [
+      {
+        "id": "561da8de9adb12c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Privat/Empire&Puzzles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "273a1b0531d7969e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CheatSheets/Git/Git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "089c771c266587b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44601839e89146c3",
+        "type": "tabs",
+        "dimension": 67.62886597938144,
+        "children": [
+          {
+            "id": "1a1601c94cd70c0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0a88e8572a49cab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0142bda5d941f9e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ea946f124031987",
+        "type": "tabs",
+        "dimension": 32.371134020618555,
+        "children": [
+          {
+            "id": "5e370433489ef7e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ed991aa220316f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fc8bb5baada356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f517639b6d11bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CheatSheets/Git/Git.md"
+              }
+            }
+          },
+          {
+            "id": "85563c52ef4f8c56",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bb44fcef13de80d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0acc0e764c28884a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308e8ed3894cb9ff",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CheatSheets/Git/Git.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7416284153766612,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "dc3a1b0880a7756e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CheatSheets/Git/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5134de13df8e10ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CheatSheets/Git/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "273a1b0531d7969e",
+  "lastOpenFiles": [
+    "Arbeit/BTP HANA DB.md",
+    "Arbeit/Quality und Github.md",
+    "Privat/Empire&Puzzles.md",
+    "Privat/Tony.md",
+    "Privat/Tonys Minecraft Labyrinth.md",
+    "Privat/Minecraft.md",
+    "CheatSheets/JavaScript/JavaScript.md",
+    "CheatSheets/Regular Expression (RegEx).md",
+    "CheatSheets/Git/Git.md",
+    "Coding/SVN.md"
+  ]
+}

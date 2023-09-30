@@ -1,0 +1,15 @@
+{
+  "translucency": false,
+  "enabledCssSnippets": [
+    "backcolor",
+    "Folder & File Icons",
+    "aside",
+    "graph_tag_color",
+    "graph_unresolved_color"
+  ],
+  "baseFontSize": 16,
+  "accentColor": "",
+  "showViewHeader": true,
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone"
+}

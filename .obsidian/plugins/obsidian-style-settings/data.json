@@ -1,3 +1,8 @@
 {
-  "blue-topaz-theme@@remove-table-transition": true
+  "blue-topaz-theme@@remove-table-transition": true,
+  "custom-backgrounds@@bg-on": true,
+  "custom-backgrounds@@pane-color": "#000000",
+  "custom-backgrounds@@pane-opacity": 0,
+  "custom-backgrounds@@tab-opacity": 0,
+  "custom-backgrounds@@ui-opacity": 1
 }

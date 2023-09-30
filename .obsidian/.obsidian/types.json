@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "import": "checkbox",
+    "entrypage": "checkbox",
+    "overviewpage": "checkbox",
+    "Stand": "date",
+    "Aktuell": "checkbox",
+    "IgnoreOrphan": "checkbox",
+    "Personen": "multitext",
+    "Gelöst": "date",
+    "showever": "checkbox",
+    "Zeitpunkt": "datetime",
+    "Intern": "checkbox",
+    "Gelöst Von": "multitext",
+    "Reviewed": "datetime",
+    "connie-publish": "checkbox"
+  }
+}

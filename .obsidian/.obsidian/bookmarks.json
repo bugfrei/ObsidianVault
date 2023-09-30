@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1693432913507,
+      "path": "Astroneer.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1693433594150,
+      "path": "__INDEX__.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1694881628166,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1694881598170,
+          "path": "1-Project/SLAH/Doktor App fertigstellen.md",
+          "title": "Doktor App fertigstellen"
+        }
+      ],
+      "title": "Projekte"
+    },
+    {
+      "type": "group",
+      "ctime": 1694881640987,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1694882731365,
+          "title": "Alle",
+          "options": {
+            "collapse-filter": false,
+            "search": "-path:Daily -path:Excalidraw/Scripts -path:Files -path:Themen -path:Vorlagen -path:Weekly  ",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [],
+            "collapse-display": false,
+            "showArrow": true,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": false,
+            "centerStrength": 0.590077457264957,
+            "repelStrength": 9.89583333333333,
+            "linkStrength": 1,
+            "linkDistance": 246,
+            "scale": 0.8254491895755529,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1694513695997,
+          "title": "ABAP",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#thema_abap  ",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [],
+            "collapse-display": false,
+            "showArrow": true,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": false,
+            "centerStrength": 0.590077457264957,
+            "repelStrength": 9.89583333333333,
+            "linkStrength": 1,
+            "linkDistance": 246,
+            "scale": 0.8254491895755529,
+            "close": false
+          }
+        }
+      ],
+      "title": "Graphs"
+    },
+    {
+      "type": "group",
+      "ctime": 1694881651709,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1694513562216,
+          "query": "[\"entrypage\":]",
+          "title": "Einstiegsseiten"
+        }
+      ],
+      "title": "Suchen"
+    },
+    {
+      "type": "file",
+      "ctime": 1694883075719,
+      "path": "__THEMENLISTE__.md",
+      "title": "__THEMENLISTE__"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3634926c3d00d555",
+    "type": "split",
+    "children": [
+      {
+        "id": "511b0300f464f28f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ea66033f0d83fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Project/Schulung Obsidian/Video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "748494b230579aba",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1-Project/Schulung Obsidian/Präsentation Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b6f47674aa6a45",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "740bd92bcfc14369",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2fbe7e61672dbf0f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7540dc620f0fba1c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "801f4b420974affa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "9b393da24a853dc1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f5c54642f1083781",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4d8b9986c7ea1f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3171095d9bedfca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1-Project/Schulung Obsidian/Video.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "98a208add24dff1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1-Project/Schulung Obsidian/Video.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "49c4453ea9e6c1d3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1-Project/Schulung Obsidian/Video.md"
+          }
+        }
+      },
+      {
+        "id": "b16ed1a9ce4adabd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "b9ea66033f0d83fc",
+  "lastOpenFiles": [
+    "1-Project/Schulung Obsidian/Unterschiede Obsidian - Confluence.md",
+    "1-Project/Schulung Obsidian/Präsentation Obsidian.md",
+    "1-Project/Schulung Obsidian/Video.md",
+    "1-Project/Schulung Obsidian/Unbenannt.md",
+    "6-Confluence/6-Confluence.md",
+    "Files/Pasted image 20230927210919.png",
+    "5-Kanban/Öffnen Neue Notizen mit Kurzschreibweise.md",
+    "Files/Pasted image 20230927210936.png",
+    "Files/Pasted image 20230927205029.png",
+    "Vorlagen/Side-Notes.md",
+    "Files/Pasted image 20230925030645.png",
+    "Files/Pasted image 20230925030412.png",
+    "0-Inbox/TestReview.md",
+    "1-Project/Float/Float Meeting (mit Project Controlling).md",
+    "0-Inbox/Templater Test.md",
+    "1-Project/Schulung Obsidian/Installation von Obsidian.md",
+    "__THEMENLISTE__.md",
+    "0-Inbox/Nützliche Dataview Beispiele.md",
+    "5-Kanban/Markdown.md",
+    "5-Kanban/Tags.md",
+    "5-Kanban/Review 1.md",
+    "5-Kanban/Graph.md",
+    "Files/Pasted image 20230919125836.png",
+    "5-Kanban/Properties.md",
+    "Files/Pasted image 20230919211444.png",
+    "0-Inbox/Vorlage für Skillprofil Zeitraum 2011-2018 bzw. 2020.md",
+    "Files/Pasted image 20230919125817.png",
+    "Files/Pasted image 20230919125753.png",
+    "Files/0011.png",
+    "0-Inbox/Knowledge-Base Tool mem.ai.md",
+    "Vorlagen/Review.md",
+    "5-Kanban/Thema  Datensicherheit.md",
+    "5-Kanban/Einfügen von Grafiken.md",
+    "5-Kanban/Preview von Links bei Mouse-Over.md",
+    "5-Kanban/HTML in Notizen.md",
+    "5-Kanban/Themes.md",
+    "Context/#thema_abap.mdb"
+  ]
+}

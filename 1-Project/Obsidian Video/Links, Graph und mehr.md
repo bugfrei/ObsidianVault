@@ -11,7 +11,6 @@ Das ist also der Inhalt dieser Überschrift aus der anderen Notiz. Ändere ich d
 Dies können auch PDFs, Bilder usw. sein.
 
 🔴 Screenshots werden automatisch verlinkt und die Datei gespeichert.
-![[Pasted image 20230929033837.png]]
 
 Auch kann man eine Vorschau eines Links anzeigen lassen in dem man mit der Maus drüber fährt (teilweise mit gedrückter Strg-Taste). 🔴 Maus über ==Links, Graph und mehr==  und dort dann wieder...
 
